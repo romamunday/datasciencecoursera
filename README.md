@@ -1,4 +1,0 @@
-coursera
-========
-
-online course work
